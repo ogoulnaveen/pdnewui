@@ -13,10 +13,10 @@ const Carousel = () => {
         dots: true,
         infinite: true,
         slidesToShow: 3,
-        slidesToScroll: 1,
-        autoplay: true,
-        speed: 5000,
-        autoplaySpeed: 5000,
+        slidesToScroll: 2,
+        // autoplay: true,
+        // speed: 5000,
+        // autoplaySpeed: 5000,
         cssEase: "linear",
         responsive: [
             {

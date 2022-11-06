@@ -6,7 +6,7 @@ export const useStyle = makeStyles(theme => ({
     },
     btn: {
         color: "#000 !important",
-        textTransform: 'none',
+        textTransform: 'none !important',
         fontStyle: 'normal',
         fontWeight: 500,
         fontSize: 15,

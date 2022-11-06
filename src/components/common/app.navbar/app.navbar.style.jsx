@@ -26,6 +26,7 @@ export const useStyle = makeStyles(theme => ({
         fontSize: 15,
         lineHeight: '20px',
         backgroundColor: '#000',
+        textTransform:'none !important'
     },
     btn2: {
         boxShadow: 'none !important',
