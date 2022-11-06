@@ -1,0 +1,42 @@
+.faqs {
+    background: #fcfcff;
+}
+.faq-head1 {
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 42px;
+    line-height: 57px;
+    color: #2e392f;
+}
+.res-faq-head1 {
+    font-size: 25px !important;
+    line-height: 25px !important;
+}
+.faq-head2 {
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    color: #525a53;
+}
+
+.btn2 {
+    cursor: pointer;
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+    background: #01babf;
+    border-radius: 47px;
+}
+.btn2:hover {
+    background: #038f94;
+}
